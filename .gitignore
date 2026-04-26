@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Rust build artifacts
+**/target/
+
+# Build output
+app/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Built desktop binaries
+*.exe
+*.msi
+*.AppImage
+*.dmg
+
+# Logs
+*.log
