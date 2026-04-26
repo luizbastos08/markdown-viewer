@@ -28,5 +28,9 @@ Thumbs.db
 *.AppImage
 *.dmg
 
+# AI assistant config
+AGENTS.md
+CLAUDE.md
+
 # Logs
 *.log
